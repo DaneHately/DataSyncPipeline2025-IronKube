@@ -1,6 +1,6 @@
 # DataSync Pipeline 2025
 
-I’m thrilled to share my first complete data pipeline, `DataSyncPipeline2025`, as part of my journey into cloud engineering! Having just earned my Google Associate Cloud Engineer certification, this project marks a significant milestone for me. It’s my first time using Kubernetes in a real-world deployment, and I’m excited to showcase how I built a pipeline that ingests, processes, and serves transaction data using Google Cloud services. This portfolio piece is a step toward my goal of freelancing as a cloud infrastructure engineer, and I hope it demonstrates the skills I’ve gained along the way.
+I’m thrilled to share my first complete data pipeline, `DataSyncPipeline2025`, as part of my journey into cloud engineering! Having just earned my Google Associate Cloud Engineer certification on 4-27-25, this project marks a significant milestone for me. It’s my first time using Kubernetes in a real-world deployment, and I’m excited to showcase how I built a pipeline that ingests, processes, and serves transaction data using Google Cloud services. This portfolio piece is a step toward my goal of freelancing as a cloud infrastructure engineer, and I hope it demonstrates the skills I’ve gained along the way.
 
 ## Overview
 
